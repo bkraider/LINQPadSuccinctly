@@ -1,0 +1,2 @@
+# LINQPadSuccinctly
+Practicing LINQPad
