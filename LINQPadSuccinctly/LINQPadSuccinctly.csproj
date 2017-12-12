@@ -49,5 +49,8 @@
     <None Include="App.config" />
     <None Include="Queries\helloworld.linq" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Queries\uspostalcodes.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
