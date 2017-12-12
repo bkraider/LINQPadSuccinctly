@@ -10,6 +10,8 @@ namespace LINQPadSuccinctly
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Practicing LINQPad Samples");
+            Console.ReadLine();
         }
     }
 }
