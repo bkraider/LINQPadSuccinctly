@@ -47,7 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Queries\Aggregate.linq" />
+    <None Include="Queries\AverageofOddNumbers.linq" />
     <None Include="Queries\helloworld.linq" />
+    <None Include="Queries\LINQtoSQLMultipleStatement.linq" />
+    <None Include="Queries\selectcolumnsandcombine.linq" />
+    <None Include="Queries\Sort.linq" />
+    <None Include="Queries\WhereandGroupBy.linq" />
+    <None Include="Queries\withoutpredicate.linq" />
+    <None Include="Queries\withpredicate.linq" />
+    <None Include="Queries\withpredicate2.linq" />
+    <None Include="Queries\withpredicatemultikeyword.linq" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Queries\states_table.sql" />
